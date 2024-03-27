@@ -1,0 +1,17 @@
+{
+  "name": "test-project-api",
+  "type": "module",
+  "engines": {"node": "14.21.3"},
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}
